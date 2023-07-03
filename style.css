@@ -1,0 +1,22 @@
+.travel.mainDiv{
+    border: 1px solid lightgrey;
+}
+.travel.mainDiv image{
+    width: 100%;
+}
+.travel.mainDiv h5, .travel.mainDiv p{
+    margin: 20px;
+}
+.my_nav_bar{
+    position: fixed;
+    width: 100%;
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 20px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    }
+.movie_head i{
+    float: right;
+}
